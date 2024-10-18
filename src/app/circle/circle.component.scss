@@ -1,0 +1,102 @@
+.shadow-circle {
+  width: 250px;
+  height: 250px;
+  background-color: #01CCFF;
+  /* Circle background color */
+  border-radius: 50%;
+  /* Make it a circle */
+  box-shadow: 0px 4px 45px #01CCFF;
+  /* Add shadow effect */
+}
+
+h5 {
+  color: white;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  font-style: normal;
+  white-space: nowrap
+}
+
+h3 {
+  color: white;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+  font-size: 50px;
+  white-space: nowrap
+}
+h6 {
+  color: white;
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+  white-space: nowrap
+}
+
+body {
+  width: 400px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+}
+.styleText-smap{
+  color: #01CCFF;
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.text-style{
+   color: white;
+   width: 500px;
+}
+.linkedinLogo-style
+{
+  width: 50px;
+  height: 50px;
+  background-color: #181E39;
+}
+.githubLogo-style
+{
+  width: 47px;
+  height: 47px;
+  background-color: #181E39;
+}
+.whatsappLogo-style
+{
+  width: 57px;
+  height: 57px;
+  background-color: #181E39;
+}
+.whatsappLogo-style
+{
+  width: 57px;
+  height: 57px;
+  background-color: #181E39;
+}
+.textButton-style
+{
+ 
+  font-weight: bold; /* Fettgedruckter Text */
+  font-size: 18px; /* Schriftgröße anpassen */
+  color: white;
+}
+.btn-custom {
+  background-color: #01CCFF; /* Bootstrap info color */
+  
+            backdrop-filter: blur(10px); /* Blur the background behind the button */
+            border: 1px solid rgba(255, 255, 255, 0.3); /* Subtle white border */
+            color: white; /* Text color */
+            padding: 10px 20px; /* Adjust padding */
+            border-radius: 15px; /* Rounded corners */
+          
+  /* Make it a circle */
+  box-shadow: 0px 14px 65px #01CCFF
+}
+
+/* Hover-Effekt */
+.btn-custom:hover {
+  background-color: #01CCFF; /* Farbe bei Hover */
+  box-shadow: 0px 0px 0px
+}

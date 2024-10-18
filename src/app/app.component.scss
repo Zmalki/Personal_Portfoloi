@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+    /* Für Tablets und kleinere Geräte */
+    .mt-5 {
+      margin-top: 2rem; /* Weniger Abstand auf kleineren Bildschirmen */
+    }
+  }
+  
+  @media (min-width: 992px) {
+    /* Für größere Bildschirme */
+    .mt-5 {
+      margin-top: 5rem;
+    }
+  }
+  .text {
+    color: white;
+  }
